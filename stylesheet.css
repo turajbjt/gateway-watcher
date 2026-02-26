@@ -1,0 +1,17 @@
+.status-green-icon { color: @success_color; }
+.status-red-icon { color: @error_color; }
+.status-snooze-icon { color: @suggested_bg_color; }
+.status-dim-icon { color: rgba(128, 128, 128, 0.5); }
+
+.gateway-status-label { font-weight: bold; padding: 10px 0; }
+
+.gateway-incident-card {
+    background-color: rgba(128, 128, 128, 0.1);
+    border-radius: 8px;
+    margin: 2px 10px;
+}
+
+.gateway-incident-card .popup-menu-item {
+    font-size: 0.85em;
+    font-style: italic;
+}

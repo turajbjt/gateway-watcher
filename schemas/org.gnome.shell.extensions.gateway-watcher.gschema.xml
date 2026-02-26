@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+  <schema id="org.gnome.shell.extensions.gateway-watcher" path="/org/gnome/shell/extensions/gateway-watcher/">
+    <key name="check-interval" type="i">
+      <default>300</default>
+    </key>
+    <key name="track-keywords" type="s">
+      <default>""</default>
+    </key>
+  </schema>
+</schemalist>

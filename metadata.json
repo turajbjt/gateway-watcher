@@ -1,0 +1,9 @@
+{
+  "name": "Gateway Status Pro",
+  "description": "Professional gatewaystatus.com monitor with keyword tracking, snoozing, and incident sub-menus.",
+  "uuid": "gateway-watcher@yourusername.example.com",
+  "shell-version": [ "48", "49", "50" ],
+  "url": "http://www.gatewaystatus.com",
+  "settings-schema": "org.gnome.shell.extensions.gateway-watcher",
+  "version": 1
+}
